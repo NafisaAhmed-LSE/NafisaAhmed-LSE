@@ -9,4 +9,6 @@ I will use this GitHub profile to showcase my data science skills.
 
 - Python 
 - Data Science
+- git config --global user.name "Nafisa Ahmed"
+git config --global user.email "n.k.ahmed@lse.ac.uk"
   
